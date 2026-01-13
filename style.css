@@ -258,7 +258,7 @@ body::before {
 
 a[href*="linkedin.com"],
 a[href*="github.com"],
-a[href*="vincentgriest.github.io"] {
+a[href*="vmgriest.github.io/Senior-Capstone-Portfolio/"] {
     color: #00b4d8 !important;
     border: 1px solid #0077b5 !important;
     background: linear-gradient(45deg, rgba(0, 119, 181, 0.1), rgba(0, 180, 216, 0.1)) !important;
@@ -268,7 +268,7 @@ a[href*="vincentgriest.github.io"] {
 
 a[href*="linkedin.com"]:hover,
 a[href*="github.com"]:hover,
-a[href*="vincentgriest.github.io"]:hover {
+a[href*="https://vmgriest.github.io/Senior-Capstone-Portfolio/"]:hover {
     color: #90e0ef !important;
     background: linear-gradient(45deg, rgba(0, 119, 181, 0.3), rgba(0, 180, 216, 0.3)) !important;
 }
